@@ -7,5 +7,10 @@
 
 # Define the number 
 num = 20
-
+num = 20
+num1 = 20*20
+num2 = 20*20*20
+num3 = 20**4
 # Display the powers using print statements
+print(num1,num2,num3
+
